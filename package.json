@@ -1,7 +1,7 @@
 {
   "name": "gh-pages-practice",
   "homepage": "https://zoelaventhol.github.io/gh-pages-practice/",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
